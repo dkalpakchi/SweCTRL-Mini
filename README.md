@@ -8,3 +8,4 @@ Note: all dates are preliminary and could be both moved forward and backward in 
 - [ ] May 1st -- release of the full version of the code for training and evaluating the model
 - [ ] May 3rd -- publishing the website for the model with the interface to search in its training data
 - [ ] May 8th -- release of the model with an accompanying license
+- [ ] May 25th -- release of raw annotations for human evaluation
