@@ -1,0 +1,64 @@
+news:
+  names:
+    - Fredrik Larsson, en snickare från Östersund, är dagens hjälte!
+  future:
+    - En ny ö har växt fram i mitten av Östersjön i juni 2035
+  existing:
+    - Så bra är nya filmen Tusen gånger god natt
+    - Moderaterna i Stockholms län varnar i ett brev landstingsanställda
+wiki:
+  names:
+    - Hexa III är den första kvantdatorn riktade mot konsumenter.
+  future:
+    - Värdlsmästarskapet i fotboll 2032 spelades i Ukraina.
+  existing:
+    - Patrik Juhlin, född 24 april 1970 i Huddinge församling
+    - Paul & Norbert var en restaurang på Strandvägen 9
+ads:
+  names:
+    - Lärare sökes till Kranska skolan i Ardelfors
+  future:
+    - Gillar du tekniken och kommer att få din examen senast maj 2024?
+  existing:
+    - Truckförare till sommarvikariat på Stora Enso i Jönköping
+    - DAGUS AB söker nu en ekonomiansvarig för moderbolaget
+review:
+  names:
+    - En ny bok av Valiani handlar om resor runt världen.
+  future:
+    - 3 bästa böcker från 2035 med korta sammanfattningar.
+  existing:
+    - Hon syns direkt när jag kliver in genom entrén i förortens centrumbyggnad där hemma
+    - Norman Manea är en rumänsk litterär gigant. \"Oktober, klockan åtta\" är en samling
+news_sport:
+  names:
+    - Falun IF vann med 12 - 4
+  future:
+    - Första dagen på OS 2033 gick
+  existing:
+    - Manchester United lär trycka gasen i botten redan från start i hemmapremiären mot Newcastle
+    - Hästens välfärd - kan det bli för mycket av det goda?
+blogs_sport:
+  names:
+    - Falun IF vann med 12 - 4
+  future:
+    - Första dagen på OS 2033 gick
+  existing:
+    - Manchester United lär trycka gasen i botten redan från start i hemmapremiären mot Newcastle
+    - Hästens välfärd - kan det bli för mycket av det goda?
+news_travel:
+  names:
+    - En ny bok av Valiani handlar om resor runt världen.
+  future:
+    - Året är 2027 och nu kan vi åka tåg mellan Stockholm och Madrid, äntligen!
+  existing:
+    - Vis är den ö som ligger längst ut i Adriatiska havet, cirka 2 timmar från Split
+    - Tips på vackra kustnära vandringsleder i Europa
+info_travel:
+  names:
+    - En ny bok av Valiani handlar om resor runt världen.
+  future:
+    - Året är 2027 och nu kan vi åka tåg mellan Stockholm och Madrid, äntligen!
+  existing:
+    - Vis är den ö som ligger längst ut i Adriatiska havet, cirka 2 timmar från Split
+    - Tips på vackra kustnära vandringsleder i Europa
