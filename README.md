@@ -7,7 +7,7 @@ The official repository for the resources connected to the Swedish language mode
 
 **Website (you can partially mine training data there)**: https://swectrl.dev/
 
-**The model on Huggingface Hub (BigScience Open RAIL-M license)**: https://huggingface.co/dkalpakchi/SweCTRL-Mini
+**The model on the Huggingface Hub (BigScience Open RAIL-M license)**: https://huggingface.co/dkalpakchi/SweCTRL-Mini
 
 ## The roadmap for 2023
 Note: all dates are preliminary and could be both moved forward and backward in time.
