@@ -5,7 +5,7 @@ The official repository for the resources connected to the Swedish language mode
 
 **Technical note**: https://doi.org/10.5281/zenodo.7868205
 
-**Website (you can partially mine training data there)**: https://swectrl.dev/
+**Website (you can partially mine training data there)**: https://swectrl.dev/  (temporarily down due to hardware failure)
 
 **The model on the Huggingface Hub (BigScience Open RAIL-M license)**: https://huggingface.co/dkalpakchi/SweCTRL-Mini
 
