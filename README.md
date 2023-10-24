@@ -5,17 +5,13 @@ The official repository for the resources connected to the Swedish language mode
 
 **Technical note**: https://doi.org/10.5281/zenodo.7868205
 
-**Website (you can partially mine training data there)**: https://swectrl.dev/  (temporarily down due to hardware failure)
+**Website (you can partially mine training data there)**: ~~https://swectrl.dev/~~ We are looking for a new hosting provider. I will release the code to host the website locally around January 2024. If you need it more urgently, please create an issue in this repo, and we'll se what can be done.
 
 **The model on the Huggingface Hub (BigScience Open RAIL-M license)**: https://huggingface.co/dkalpakchi/SweCTRL-Mini
 
-## The roadmap for 2023
-- [x] Apr 28th -- release of the associated paper and the technical note
-- [x] May ~~3rd~~ 1st -- publishing the website for the model with the interface to search in its training data
-- [x] May 8th -- release of the model with an accompanying license
-- [x] May ~~1st~~ 11th -- release of the full version of the code for training and evaluating the model
-- [x] May ~~25th~~11th -- release of raw annotations for human evaluation
-- [ ] August/September -- release of visualized annotations (preliminary)
+## The roadmap for 2024
+- [ ] Jan 2024 -- release of the code to host your own copy of the website
+- [ ] Feb 2024 -- release of visualized annotations (preliminary)
 
 ## Use for token classification
 SweCTRL-Mini was originally trained for text generation (for which it includes the pre-trained LM head). We haven't tested it for any other use case. That said, if you remove the LM head, the remainder of the network can be used as a learned feature encoder, for instance, for token classification. We have provided the starting point for such an experiment in `hf_addons/token_classification.py`, which can be initialized by invoking the following (for the 4-way classification):
